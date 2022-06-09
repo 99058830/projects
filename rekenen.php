@@ -9,6 +9,8 @@ echo "$x - "."$y = ".($x - $y)."<br>";
 echo "$x x "."$y = ".($x * $y)."<br>";
 echo "$x / "."$y = ".($x / $y)."<br>";
 
+echo "<br>";
+
 $i = 1;
 while ($i <= $r) {
     echo "\t", $i, " * ", $z, " = ", $z * $i,"<br>";
